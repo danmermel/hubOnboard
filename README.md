@@ -26,7 +26,7 @@ Once you have those, create a configProd.json and a configStage.json files with 
 }
 ```
 
-### Usage
+## Usage
 You need to supply a tab-separated csv file with fields for:
 * source_id_type (at least one is mandatory. More than 1 separated by ~)
 * source_id (at least one is mandatory. More than 1 separated by ~)
