@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "line-reader": "^0.4.0",
+    "request": "^2.83.0"
+  }
+}
