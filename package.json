@@ -2,5 +2,27 @@
   "dependencies": {
     "line-reader": "^0.4.0",
     "request": "^2.83.0"
-  }
+  },
+  "name": "hubonboard",
+  "description": "Node script to onboard asset metadata to the Copyright Hub",
+  "version": "1.0.0",
+  "main": "auth.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmermel/hubOnboard.git"
+  },
+  "keywords": [
+    "copyright",
+    "licensing"
+  ],
+  "author": "Daniel Mermelstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danmermel/hubOnboard/issues"
+  },
+  "homepage": "https://github.com/danmermel/hubOnboard#readme"
 }
