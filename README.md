@@ -59,7 +59,7 @@ The last column is the item's "hubkey". This is a URI and its contents can be in
 ```
 https://query-stage.copyrighthub.org/v1/query/entities?hub_key=https://openpermissions.org/s1/hub1/0d03c70712a8483ebf6d4a7c17228f9e/asset/628536b03fbb4fbe9aad1eb1bf9a88b4
 ```
-on staging and 
+on staging, or 
 
 ```
 https://query.copyrighthub.org/v1/query/entities?hub_key=https://openpermissions.org/s1/hub1/0d03c70712a8483ebf6d4a7c17228f9e/asset/628536b03fbb4fbe9aad1eb1bf9a88b4
