@@ -10,6 +10,8 @@ The [Copyright Hub](http://www.copyrighthub.org) aims to  help copyright work th
 ### Script and dependencies
 Clone the repo and install dependencies with
 ```
+git clone git@github.com:danmermel/hubOnboard.git
+cd hubOnboard
 npm install
 ```
 
